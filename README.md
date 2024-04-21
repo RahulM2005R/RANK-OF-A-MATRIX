@@ -1,5 +1,5 @@
-# RANK-OF-A-MATRIX
-## DATE: 23/03/2024
+# EX-2: RANK-OF-A-MATRIX
+## DATE: 09.03.2024
 ## Aim:
 To write a python program to find the rank of a matrix
 ## Equipment’s required:
@@ -19,6 +19,8 @@ End the program.
 
 ## Program:
 ```
+#Developed by: Rahul M R
+#Register Number: 2305003005
 import numpy as np
 A=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 R=np.linalg.matrix_rank(A)
